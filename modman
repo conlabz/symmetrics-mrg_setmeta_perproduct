@@ -1,0 +1,3 @@
+build/app/code/community/Symmetrics/SetMeta/ app/code/community/Symmetrics/SetMeta/
+build/app/etc/modules/Symmetrics_SetMeta.xml app/etc/modules/Symmetrics_SetMeta.xml
+build/app/locale/de_DE/Symmetrics_SetMeta.csv app/locale/de_DE/Symmetrics_SetMeta.csv
